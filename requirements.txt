@@ -1,0 +1,10 @@
+numpy
+Pillow
+pandas
+seaborn
+scikit-learn
+scikit-image
+matplotlib
+tensorflow==2.0.0
+opencv-contrib-python
+imutils
